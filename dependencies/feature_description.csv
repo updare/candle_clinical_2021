@@ -1,0 +1,61 @@
+Features,Feature type
+Patient Identification Number,Descriptive
+Study site,Categorical
+HBsAG Baseline,Categorical
+Anti-HBc Baseline,Categorical
+Cirrhosis Baseline,Categorical
+HCC Baseline,Categorical
+Age,Numerical
+Gender,Categorical
+Pregnancy Status,Categorical
+Place of Birth,Categorical
+Marital Status,Categorical
+Highes Educational Attainment,Categorical
+Household Income Bracket,Categorical
+Event Name,Categorical
+DATE TESTS WERE DONE:,Numerical
+HBsAg interpretation,Categorical
+Anti-HBs interpretation,Categorical
+Anti-HBc total interpretation,Categorical
+HBeAg interpretation,Categorical
+Anti-HBe interpretation,Categorical
+Anti-HCV interpretation,Categorical
+Anti-HAV IgG interpretation,Categorical
+HBV Viral Load (IU/mL) ,Numerical
+Fasting Blood Sugar (mmol/L),Numerical
+Triglycerides (mmol/L),Numerical
+Total Cholesterol (mmol/L),Numerical
+LDL (mmol/L) ,Numerical
+HDL (mmol/L),Numerical
+VLDL (mmol/L),Numerical
+Creatinine (umol/L),Numerical
+Albumin (g/L),Numerical
+Serum sodium (mmol/L),Numerical
+Alkaline phosphatase (U/L),Numerical
+SGPT / ALT (U/L),Numerical
+ALT elevation female,Numerical
+ALT elevation male,Numerical
+SGOT / AST (U/L),Numerical
+AST elevation female,Numerical
+AST elevation male,Numerical
+Total bilirubin (umol/L),Numerical
+Indirect bilirubin (umol/L),Numerical
+Direct bilirubin (umol/L),Numerical
+Hemoglobin (g/L),Numerical
+WBC count (x109/L),Numerical
+Neutrophils (%),Numerical
+Lymphocytes (%),Numerical
+Monocytes (%),Numerical
+Eosinophils (%),Numerical
+Basophils (%),Numerical
+Platelet count (x109/L),Numerical
+INR,Numerical
+AFP (IU/mL),Numerical
+AFP-L3 (%),Numerical
+PIVKA II (mAU/mL),Numerical
+GALAD score,Numerical
+Ultrasound findings and impression,Descriptive
+LIVERFASt Fibrosis score (F0 - F4),Categorical
+LIVERFASt Activity score (A0 - A4),Categorical
+LIVERFASt Steatosis score (S0 - S3),Categorical
+Complete?,Categorical
